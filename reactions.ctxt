@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=
+comment1.target=reactions()
+comment2.params=
+comment2.target=float\ getRate()
+comment3.params=grid
+comment3.target=void\ generateReactions(Grid)
+numComments=4
